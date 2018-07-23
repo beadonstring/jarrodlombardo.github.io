@@ -22,12 +22,12 @@ jarrodl@gmail.com
 #### Tableau Software    Seattle, Washington  June 2015 - December 2015;    Vancouver, BC  January 2016 - Present
 
 * Direct supervision of a team of developers.
-* Management of resources and risks to ensure on-time and requirement complete delivery of features assigned to team.
+* Management of resources and risks to ensure on-time and requirement (this feels awkward, not quite sure what "and requirement" means in this sentence) complete delivery of features assigned to team.
 * Ensuring that the products are developed following an architecture that supports the company's business plan.
 * Participation in bug triage, prioritization, and assignment.
-* Participation in the Development recruiting process, including initial sourcing of candidates, interviewing of candidates, and making offers.
+* Participation in the Development recruiting process, including initial sourcing of candidates, interviewing of candidates, and making offers. (if you put leading teams first, I would put this  and the leadershop of engineers second and third - more relevant than the other tasks)
 * Leadership and management of Software Engineers including resource management, hiring, mentorship, and performance management.
-* **Lead a teams of up to 250 peers at Tableau Conference (2012-Present) to manage up to 80 breakout session rooms during 5 days of conference, plus months of planning beforehand.**
+* **Lead a teams of up to 250 peers at Tableau Conference (2012-Present) to manage up to 80 breakout session rooms during 5 days of conference, plus months of planning beforehand.** (I would put this first, as I was scanning looking for how this role relates to the job opp)
 
 ### Department Head, Of Facilitation Magic
 
